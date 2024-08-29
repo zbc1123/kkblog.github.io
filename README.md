@@ -1,6 +1,6 @@
-# Ethan的博客 :link: http://blog.meekdai.com 
-### :page_facing_up: [1](http://blog.meekdai.com/tag.html) 
+# Ethan的博客 :link: https://zbc1123.github.io/kkblog.github.io 
+### :page_facing_up: [1](https://zbc1123.github.io/kkblog.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1054 
-### :alarm_clock: 2024-08-29 11:16:35 
+### :alarm_clock: 2024-08-29 11:20:18 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
